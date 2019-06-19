@@ -10,7 +10,7 @@ public class stringOPS {
 		int pos = s1.indexOf("California");
 		System.out.println("Position of California: " + pos);
 		
-		String sub = s1.substring(11);
+		String sub = s1.substring(11,19);
 		System.out.println(sub);
 		
 		String s2 = "Welcome!       ";
